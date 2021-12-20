@@ -33,5 +33,6 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 
 
 ## 5. HTML AND CSS
-1. [Attibutes in the label](src/target.html)
+1. [Attibutes in the label](src/01_target.html)
+2. [Document statement](02_doc_stat.html)
 
