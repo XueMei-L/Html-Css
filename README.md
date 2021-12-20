@@ -28,7 +28,7 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the p
 Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 
 
-### 1. [Attibutes in the label]()
+### 1. [Attibutes in the label](doc/target.md)
 
 
 ## More information about HTML
