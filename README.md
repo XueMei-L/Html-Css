@@ -9,7 +9,6 @@ Date of creation: 20-12-2021
 
 ## 1. Introduction
 This repo created to target knowledge of HTML and Css.
-
 The frist part would be html and secound part would be Css
 
 
@@ -34,5 +33,5 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 
 
 ## 5. HTML AND CSS
-1. [Attibutes in the label](doc/target.md)
+1. [Attibutes in the label](src/target.html)
 
