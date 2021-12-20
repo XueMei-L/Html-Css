@@ -9,7 +9,6 @@ Date of creation: 20-12-2021
 
 ## 1. Introduction
 This repo created to target knowledge of HTML and Css.
-The frist part would be html and secound part would be Css
 
 
 ## 2. What is HTML / HTML5
@@ -18,6 +17,7 @@ HTML, siglas en inglés de HyperText Markup Language (‘lenguaje de marcado de 
 HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and last major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard. It is maintained by the Web Hypertext Application Technology Working Group (WHATWG), a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft).
 
 Reference: [Html Wikipedia](https://es.wikipedia.org/wiki/HTML)
+
 Reference: [Html5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 
 
@@ -36,3 +36,4 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 1. [Attibutes in the label](src/01_target.html)
 2. [Document statement](src/02_doc_stat.html)
 3. [About Character Encoding](src/03_character_encoding.html)
+4. [Entity in html](src/04_entity.html)
