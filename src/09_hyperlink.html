@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Hyperlink</title>
+    </head>
+    <body>
+        <h1>09. Hyperlink</h1>
+        <h2>1. How to use Hyperlink</h2>
+            <a href="https://www.google.com/">I wanna go Google page</a><br>
+            <a href="../src/01_helloworld.html">I wanna go My Helloworld page</a>
+            <!--
+                href specify the jump path
+                can Jump to external links like Google youtube
+                also can jump to internal links like 01_helloworld.html
+            -->
+
+        <h2>2. Open the hyperlink in the current page or in a new page</h2>
+            <a href="https://www.google.com/" target="_self">Open Goolge page in current page</a><br>
+            <a href="https://www.google.com/" target="_blank">Open Goolge page in a new page</a><br>
+            <!--
+                use <target="">
+            -->
+    </body>
+</html>
+
+<!--
+    # Hyperlink <a>
+        Jump from one page to a new page
+        Also can jump to other locations of one page
+        <a>Here can be palced block elements and inline elements</a>
+        but cant placed otrer  <a></a>
+
+    # Examples
+        <a><div></div></a>      //OK!!
+        <a><a></a></a>          //DONT DO THAT!!!
+
+    # Target
+        _self defaults - Open the hyperlink in the current page
+        _blank         - Open the typerlink in a new page
+-->
