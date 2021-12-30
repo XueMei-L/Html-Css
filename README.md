@@ -34,17 +34,17 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 
 ## 5. HTML AND CSS
 ### HTMl5
-1. [Attibutes in the label](src/01_helloworld.html)
-2. [Document statement](src/02_doc_stat.html)
-3. [About Character Encoding](src/03_character_encoding.html)
-4. [Entity](src/04_entity.html)
-5. [Meta](src/05_meta.html)
-6. [Semantic 01](src/06_semantic01.html)
-7. [Semantic 02](src/07_semantic02.html)
-8. [List](src/08_list.html)
-9. [Hyperlink](src/09_hyperlink.html)<br>
-10.[Image](src/10_image.html)
-11.[Inline frame](src/11_inlineframe.html)  
-12.[Audio](src/12_audio&video.html)
+01. [Attibutes in the label](src/01_helloworld.html)
+02. [Document statement](src/02_doc_stat.html)
+03. [About Character Encoding](src/03_character_encoding.html)
+04. [Entity](src/04_entity.html)
+05. [Meta](src/05_meta.html)
+06. [Semantic 01](src/06_semantic01.html)
+07. [Semantic 02](src/07_semantic02.html)
+08. [List](src/08_list.html)
+09. [Hyperlink](src/09_hyperlink.html)
+10. [Image](src/10_image.html)
+11. [Inline frame](src/11_inlineframe.html)  
+12. [Audio](src/12_audio&video.html)
 
 ### CSS3
