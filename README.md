@@ -42,9 +42,9 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 6. [Semantic 01](src/06_semantic01.html)
 7. [Semantic 02](src/07_semantic02.html)
 8. [List](src/08_list.html)
-9. [Hyperlink](src/09_hyperlink.html)  
-10.[Image](src/10_image.html)  
-11.[Inline frame](src/11_inlineframe.html)  
+9. [Hyperlink](src/09_hyperlink.html) 
+10.[Image](src/10_image.html) 
+11.[Inline frame](src/11_inlineframe.html) 
 12.[Audio](src/12_audio&video.html)
 
 ### CSS3
