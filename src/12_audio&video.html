@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>AudioAndVideo</title>
+    </head>
+    <body>
+       <p>
+            <h1>12. Audio&Video</h1>
+            <p>This is a Hayao Miyazaki Music, V1</p>
+            <audio src="../audio/Hayao_Miyazaki_Music.mp3" controls autoplay loop></audio>
+            <!--
+                In the case where the webpage is not available, tell the user that it is not compatible
+            -->
+
+            <p>This is a Hayao Miyazaki Music, V2</p>
+            <audio controls>
+                Your browser does not support playing audio, please upgrade your browser
+                <source src="../audio/Hayao_Miyazaki_Music.mp3">
+            </audio>
+            <!--
+                Here you can put several audio files at the same time. If one is not available, the next one will be played. 
+                If none is available, the user will be told that it is not compatible.
+            -->
+
+            <p>This is a Hayao Miyazaki Music, V3 (it will be autoplay)</p>
+            <!-- <embed src="../audio/Hayao_Miyazaki_Music.mp3" type="audio/mp3" width="200" height="80"> -->
+            <!-- For the old version of the browser, the current browser is no longer needed -->
+        
+            <p>This is a video of youtube</p>
+            <video controls>
+                <source src="../video/yourname.mp4">
+                <!-- <embed src="../video/yourname.mp4" type="video/mp4">-->
+            </video>
+            <!--
+                The properties are the same as audio
+            -->
+
+            <p>Another video on youtube</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/b_xdMbIpB1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </p>
+    </body>
+</html>
+
+<!--
+    # Audio
+        Use "audio" to import an external audio file
+
+    # Attributes:
+        controls -> Whether to allow users to control playback
+        autoplay -> Auto play of audio files
+                    If autoplay is not set, the audio will automatically play when opening the web page
+                    Most web pages will not automatically play music
+        loop -> Infinite loop
+
+    # Video
+        Use "video" to import an external video file
+
+    # Recomendation
+        In development, local audio and video are generally not used, because a larger bandwidth is required to ensure normal playback.
+        Generally buy third-party video or audio
+-->
