@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Semantic</title>
+    </head>
+    <body>
+        <h1>Level 1</h1>
+        <h2>Level 2</h2>
+        <h3>Level 3</h3>
+        <h4>Level 4</h4>
+        <h5>Level 5</h5>
+        
+        <hgroup>
+            <h1>Title 01</h1>
+            <h2>Title 02</h2>
+        </hgroup>
+        <!--
+            <hgroup> Title grouping
+        -->
+
+        <p>Label &lt;p&gt; represents a paragraph</p>
+        <!--
+            <p> is also a block element
+        -->
+
+        <p><em>Hello</em>World<p>
+        <!--
+            <em> make the font italic
+        -->
+
+        <p><strong>Important</strong>words</p>
+        <!--
+            <strong> make the font bold
+        -->
+
+        <p>Aristotle: <blockquete>Hope is the dream of a waking man</blockquete>
+        <!--
+            <blockquete> indentation
+        -->
+
+        <p>Aristotle:<q>Hope is the dream of a waking man</q></p>
+        <!--
+            <q> double quetes
+        -->
+
+        <p>There is a <br>Line break</p>
+        <!--
+            <br> line break
+        -->
+    </body>
+</html>
+
+<!--
+    # Semantic
+        Title tags are all block elements
+        Normally, h1~h3 are more important
+        
+    # Block element
+        Elements that occupy a row on the page are called（ block elements）
+        Blocks elements are generally used in web pages to lay oout web pages
+        <p></p>
+
+    # Inline element
+        Elements that will not be on a line on the page.
+        Inline elements are generally used to set effects for text
+        <em></em>               //italic
+        <strong></strong>       //Bold
+        <blockquete>            //indentation
+        <q>                     //double quetes
+    more elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Element  (Text conten)
+
+    # Importante!!!!
+        In general, let the line element in the block element
+        but block element not in inline element!!!
+        Examples:
+        <h1><em></em></h1>          //OK!!
+        <em><h1></h1></em>          //Don't do that!!
+        
+        In most cases, block elements and inline elements can be placed in clock elements.
+        But!!! There are special cases:
+        For example:
+        <p><h1>The browsesr will automatically modify the structure</h1></p>    //Can be used but not correct
+
+-->
