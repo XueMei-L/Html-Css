@@ -18,6 +18,19 @@ p{
     font-size: 30px;
 }
 
-*{
+/* *{
     font-size: small;
+} */
+
+
+/* Intersection Selector */
+/* It must be div and class=red, in other case it's won be work*/
+div.red{
+    color: red;
+    font-size: 50px;
+}
+/* Union Selector */
+h1, span{
+    font-size: medium;
+    color: violet;
 }

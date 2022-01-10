@@ -52,5 +52,5 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 14. [02.Selectors](src_html/14_basic_selectors.html)
 
 ### CSS3
-I. [01.Css](scr_css/01_style.css)
-II. [02.Basic Selectors](scr_css/02_basic_selectors.css)
+[01.Css](scr_css/01_style.css)
+[02.Basic Selectors](scr_css/02_basic_selectors.css)
