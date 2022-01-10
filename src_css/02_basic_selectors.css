@@ -79,3 +79,17 @@ p[title=ab]{
 p[title^=ab]{
     font-size: 30px;
 }
+
+/* Pseudo-classes */
+/* The first elemento will be pink*/
+ul > li:first-child{
+    color:pink;
+}
+
+ul > li:nth-child(2){
+    color:red;
+}
+
+ul > li:nth-child(odd){
+    color:blue;
+}
