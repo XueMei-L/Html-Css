@@ -63,3 +63,19 @@ p + span {
 }
 
 /* p ~ span*/
+
+
+/* Attibute */
+p[title]{
+    color:black;
+
+}
+
+/* Other examples */
+p[title=ab]{
+    color:yellow;
+}
+
+p[title^=ab]{
+    font-size: 30px;
+}
