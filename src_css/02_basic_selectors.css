@@ -1,0 +1,23 @@
+h1{
+    color:blueviolet;
+}
+
+p{
+    color:red;
+}
+
+#green{
+    color:green;
+}
+
+.blue{
+    color:blue;
+}
+
+.h2size{
+    font-size: 30px;
+}
+
+*{
+    font-size: small;
+}

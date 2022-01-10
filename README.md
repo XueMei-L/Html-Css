@@ -32,7 +32,7 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 1. [HTML Lenguaje de etiquetas de hipertexto](https://developer.mozilla.org/es/docs/Web/HTML)
 
 
-## 5. HTML AND CSS
+## 5. HTML5 AND CSS3
 ### HTMl5
 01. [Helloworld](src_html/01_helloworld.html)
 02. [Document statement](src_html/02_doc_stat.html)
@@ -47,6 +47,10 @@ Reference: [CSS Wilipeda](https://en.wikipedia.org/wiki/CSS)
 11. [Inline frame](src_html/11_inlineframe.html)  
 12. [Audio](src_html/12_audio&video.html)
 
+### HTML5 with CSS3
+13. [01.Example of Css01](src_html/13_example_CSS.html)
+14. [02.Selectors](src_html/14_basic_selectors.html)
+
 ### CSS3
-13. [Example of Css](src_html/13_example_CSS.html)
-01. [Css](scr_css/style.css)
+I. [01.Css](scr_css/01_style.css)
+II. [02.Basic Selectors](scr_css/02_basic_selectors.css)
