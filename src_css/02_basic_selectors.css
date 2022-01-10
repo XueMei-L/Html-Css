@@ -34,3 +34,32 @@ h1, span{
     font-size: medium;
     color: violet;
 }
+
+/* Relationship between selectors */
+
+/* child element: span inside of <div></div> but not inside of <p></p>*/
+/* syntax: parent element > child element*/
+div > span {
+    color: brown;
+}
+
+div.box > span {
+    color: orange;
+}
+
+/* syntax: ancestral element(space)descendant eleement*/
+/* div span{
+    color:blue
+} */
+
+/* Other examples*/
+/* span that is inside of p and inside of div*/
+div > p > span {
+    color:grey;
+}
+
+p + span {
+    color:aquamarine;
+}
+
+/* p ~ span*/

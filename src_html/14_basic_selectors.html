@@ -13,6 +13,23 @@
         <p id="green">Second line(green)</p>
         <p class="blue">Third line(blue)</p>
         <p class="blue h2size">Fourth line(blue and H2size)</p>
+
+        <h1>Relationship between selectors</h1>
+
+        <div>
+            <p>
+                <span>span inside of "p"</span>
+            </p>
+            <span>span outside of "p" and inside of "div"</span>
+        </div><br>
+
+
+        <div class=box>
+            <span>span outside of "p" and inside of "div"</span>
+        </div>
+        <!--
+            Use div.box to specify this <div>
+        -->
     </body>
 </html>
 
@@ -25,8 +42,16 @@
         Attribute selector [attr=value]
     
     Union selector
-        selector1 and selectro2 and selectro3
+        selector1 or selectro2 or selectro3
 
     Intersection seletor
+        selector1 and selectro2
 
+    Relationship between selectors
+        Parent element
+        Child element
+        Ancestral element
+        Descendant elements
+        Sibling element
+        more reference(https://www.w3schools.com/cssref/css_selectors.asp)
 -->
