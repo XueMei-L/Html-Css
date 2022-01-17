@@ -1,0 +1,47 @@
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: darkgrey;
+
+    border-width: 5px;
+    border-color: aquamarine;
+    border-style: solid;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: blanchedalmond;
+
+    border-width: 5px 10px 15px 20px;
+    border-color: darkkhaki red orange darkgrey;
+    border-style: solid;
+}
+/* The content area is define with width and heigh */
+/* The edge of the box 
+    Setting up borders requires at least three styles:
+        border-width    
+           if border-width is empty, it defaults to 3px
+            
+            When write four values you define widths for top, bottom, left, and right
+            por exmaple border-width: 10px 20px 30px 40;
+            
+            also can use border-xxx-width to define the size of the box
+            por example border-top-width: 10px;
+                        border-buttom-width: 10px;
+                        border-right-width: 10px;
+                        border-left-width: 10px;
+                         
+        border-color
+            If border-width is empty, it defaults to black
+            If you write four colors, then the border will also change to multiple colors
+
+        border-style
+            solid = a straight line
+            dotted = dotted line
+            dashed = dashed line
+            double = double line
+
+        Preferably all definitions
+
+*/
